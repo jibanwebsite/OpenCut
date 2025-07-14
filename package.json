@@ -1,4 +1,5 @@
 {
+  "homepage": "https://jibanwebsite.github.io/OpebCut.git",
   "name": "opencut",
   "packageManager": "bun@1.2.18",
   "devDependencies": {
